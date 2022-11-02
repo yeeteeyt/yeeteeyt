@@ -3,6 +3,7 @@
 -  I’m currently bored asf
 -  I’m looking to collaborate on anything
 
+[![yeeteeyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeteeyt)](https://github.com/yeeteeyt/github-readme-stats)
 
 <!---
 yeeteeyt/yeeteeyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
