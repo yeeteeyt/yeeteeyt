@@ -5,6 +5,7 @@
 
 [![yeeteeyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeteeyt&theme=transparent)](https://github.com/yeeteeyt/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=yeeteeyt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 <!---
 yeeteeyt/yeeteeyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
