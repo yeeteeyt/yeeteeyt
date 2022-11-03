@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Hi%2C+I'm+yeeteeyt;Engineer%2C+programmer%2C+and+designer;CEO+of+ethereal+aerospace;Est.+2003)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Hi%2C+I'm+yeeteeyt;Engineer%2C+programmer%2C+and+designer;CEO+of+ethereal+aerospace;Est.+2020)](https://git.io/typing-svg)
 
 
 
