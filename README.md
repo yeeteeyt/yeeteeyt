@@ -14,7 +14,32 @@
 **Programming humour**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+
+
+                                      .6@@@/                                    
+       *@%@@&                                   &@                              
+        & &%      ,@@@(                             @.                          
+        @   .@              (@@&.                     @                         
+        @      @                     .@@@#             @                        
+        @        &#                            /@@@.   @                        
+        @          .@                                  @.&@@#                   
+        @             @                               @           /@@@,         
+        @            .@                              @          &@@%            
+        &          /@                              &  (@@@*                     
+        **       &#                         .@@@# @                             
+         #     @,                  %@@@.        @                               
+         @   @           *@@@(               .@                                 
+         @ @    &@@&                       (%                                   
+         @*                              @                                      
+                                      /&                                        
+                                    @                                           
+                                 @                                              
+                              @.                                                
+                           @                                                    
+
+
 <!---
 yeeteeyt/yeeteeyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+`
