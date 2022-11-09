@@ -16,6 +16,9 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
 
+<iframe id='kofiframe' src='https://ko-fi.com/yeeteeyt/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='yeeteeyt'></iframe>
+
+
                                       .6@@@/                                    
        *@%@@&                                   &@                              
         & &%      ,@@@(                             @.                          
@@ -39,7 +42,7 @@
                            
 
 
-<iframe id='kofiframe' src='https://ko-fi.com/yeeteeyt/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='yeeteeyt'></iframe>`
+`
 
 
 <!---
